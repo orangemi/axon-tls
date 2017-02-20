@@ -1,7 +1,7 @@
 {
   "name": "axon-tls",
   "description": "High-level messaging & socket patterns implemented in pure js",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "author": "Orange Mi <orangemiwj@gmail.com>",
   "dependencies": {
     "debug": "*",
@@ -27,7 +27,7 @@
     "rpc"
   ],
   "engines": {
-    "node": "0.10.x || 0.11.x"
+    "node": ">= 4"
   },
   "repository": {
     "type": "git",
